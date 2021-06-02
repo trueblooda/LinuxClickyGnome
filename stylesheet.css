@@ -1,0 +1,23 @@
+
+.status-label {
+    font-size: 36px;
+    font-weight: bold;
+    color: #ffffff;
+    background-color: rgba(10,10,10,0.7);
+    border-radius: 5px;
+    padding: .5em;
+}
+
+.touchpad-icon {
+    background-image: url("icons/my-touchpad-normal.svg");
+    background-size: 20px;
+    height: 20px;
+    width: 20px;
+}
+
+.touchpad-icon-disabled {
+    background-image: url("icons/my-touchpad-disabled.svg");
+    background-size: 20px;
+    height: 20px;
+    width: 20px;
+}
